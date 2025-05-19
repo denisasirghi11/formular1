@@ -1,0 +1,16 @@
+body {background-color: antiquewhite;}
+form{
+    width: 300px;
+    background-color: aliceblue;
+    margin:0 auto;
+}
+input{
+    background-color: rgb(244, 194, 132);
+    border: none;
+    border-radius: 5px;
+}
+button{
+    width: 100px;
+    background-color: rgb(194, 174, 148);
+    color: rgb(62, 71, 78);
+}
